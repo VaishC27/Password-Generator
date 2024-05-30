@@ -1,4 +1,5 @@
 # Password-Generator
+## This is a beginner's python project 🐍✨
 In this project, i have built a password generator, something that's going to generate strong passwords with letters and symbols and numbers. 
 First, it will ask how many letters would you like in your password? 
 Then it will ask How many symbols followed by numbers would you like? 
